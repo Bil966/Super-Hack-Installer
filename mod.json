@@ -7,12 +7,15 @@
 		"ios": "2.2081"
 	},
 	"id": "neongd1667.super-hack-installer",
-	"tags": ["cheat", "gameplay", "utility", "customization", "interface"],
+	"tags": ["cheat", "gameplay", "utility", "customization", "interface","editor",],
 	"name": "Super Hack Installer",
 	"version": "v1.0.4",
 	"developer": "NeonGD1667",
 	"description": "this mod is fun",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
+		"geode.custom-keybind": ">=v2.1.0"
+		"nampe.gdvn": ">=v5.0.1"
+		"cvolton.misc_bugfixes": ">=v1.10.1"
 	}
 }
