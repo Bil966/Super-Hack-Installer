@@ -8,7 +8,7 @@
 	},
 	"id": "homelessteam.installer",
 	"name": "Super Hack Installer",
-	"version": "v1.1.6",
+	"version": "v1.2.1",
 	"developers": ["NeonGD1667", "homelessteam"],
 	"description": "installer for menu",
 	"dependencies": {
